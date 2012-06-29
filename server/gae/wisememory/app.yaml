@@ -1,0 +1,18 @@
+application: wisememory9
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: no
+
+
+libraries:
+- name: webapp2
+  version: "2.5.1"
+
+handlers:
+- url: /oauth2callback
+  script: oauth2client.appengine.application
+
+- url: .*
+  script: main.app
+
