@@ -25,17 +25,16 @@ and save them as 'client_secrets.json' in the project directory.
 __author__ = 'jcgregorio@google.com (Joe Gregorio)'
 
 
-import webapp2
 import httplib2
 import logging
 import os
 import pickle
 
+from google.appengine.ext import webapp
 from apiclient.discovery import build
 from oauth2client.appengine import oauth2decorator_from_clientsecrets
 from oauth2client.client import AccessTokenRefreshError
 from google.appengine.api import memcache
-from google.appengine.ext import webapp
 from google.appengine.ext.webapp import template
 from google.appengine.ext.webapp.util import run_wsgi_app
 
@@ -61,7 +60,6 @@ found at:
 href="https://code.google.com/apis/console">APIs Console</a>.
 </p>
 """ % CLIENT_SECRETS
-
 
 http = httplib2.Http(memcache)
 service = build("plus", "v1", http=http)
@@ -96,10 +94,15 @@ class AboutHandler(webapp.RequestHandler):
     except AccessTokenRefreshError:
       self.redirect('/')
 
-
-app = webapp2.WSGIApplication(
+def main():
+  application = webapp.WSGIApplication(
       [
        ('/', MainHandler),
        ('/about', AboutHandler),
       ],
       debug=True)
+  run_wsgi_app(application)
+
+
+if __name__ == '__main__':
+  main()
