@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>05B00E33-9B04-46C2-A85B-69CC8104CD52</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{65, 11}, {930, 725}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>148E6E57-9F03-435D-8712-FA6609CC3861</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 222}, {930, 725}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>Expanded Ideaspaces</key>
+	<array/>
+	<key>Expanded Ideaspaces For Section 254E84BC-8D8A-422E-835C-7D6F3F90D980</key>
+	<array/>
+	<key>Expanded Ideaspaces For Section 5FD5083B-5090-45A1-BFC9-A22FBFB93F2C</key>
+	<array/>
+	<key>Expanded Sections</key>
+	<array/>
+	<key>Last Viewed Ideaspaces</key>
+	<array>
+		<string>54B14761-D19B-4D94-963B-5891DD2BE0EC</string>
+	</array>
+	<key>Last Viewed Ideaspaces For Section 254E84BC-8D8A-422E-835C-7D6F3F90D980</key>
+	<array>
+		<string>34F6D93F-EC77-4B25-B8B9-D313BCE6361E</string>
+	</array>
+	<key>Last Viewed Ideaspaces For Section 5FD5083B-5090-45A1-BFC9-A22FBFB93F2C</key>
+	<array>
+		<string>7A7C394C-446E-45B1-812B-0BBA464F4DFA</string>
+	</array>
+	<key>Last Viewed Section</key>
+	<array>
+		<string>5FD5083B-5090-45A1-BFC9-A22FBFB93F2C</string>
+	</array>
+	<key>LibraryPanel.Settings</key>
+	<dict>
+		<key>LibraryPanel.HiddenColumns</key>
+		<array/>
+		<key>LibraryPanel.SelectedFilter</key>
+		<integer>0</integer>
+		<key>LibraryPanel.SortDescending</key>
+		<true/>
+		<key>LibraryPanel.SortKey</key>
+		<string>CCAsset Title</string>
+		<key>LibraryPanel.TableSettings</key>
+		<dict>
+			<key>CCAsset Creation Date</key>
+			<array>
+				<real>85</real>
+				<integer>6</integer>
+			</array>
+			<key>CCAsset Date Added</key>
+			<array>
+				<real>83</real>
+				<integer>7</integer>
+			</array>
+			<key>CCAsset File Size</key>
+			<array>
+				<real>45</real>
+				<integer>4</integer>
+			</array>
+			<key>CCAsset Has Note</key>
+			<array>
+				<real>20</real>
+				<integer>1</integer>
+			</array>
+			<key>CCAsset Instance Count</key>
+			<array>
+				<real>35</real>
+				<integer>3</integer>
+			</array>
+			<key>CCAsset Is File Alias</key>
+			<array>
+				<real>20</real>
+				<integer>0</integer>
+			</array>
+			<key>CCAsset Kind</key>
+			<array>
+				<real>28</real>
+				<integer>8</integer>
+			</array>
+			<key>CCAsset Last Modified Date</key>
+			<array>
+				<real>85</real>
+				<integer>5</integer>
+			</array>
+			<key>CCAsset Title</key>
+			<array>
+				<real>200</real>
+				<integer>2</integer>
+			</array>
+		</dict>
+	</dict>
+	<key>Organizer RBSplitView Layout</key>
+	<string>2 120 318.99</string>
+</dict>
+</plist>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>05B00E33-9B04-46C2-A85B-69CC8104CD52</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {1694, 1036}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>64A7BF46-0466-4313-B285-5A54F63C217A</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {540, 720}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>8117994C-BA78-419A-BFBD-59B9D4306764</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {540, 720}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>A4A8E6BC-4D17-44D0-9097-3D79847E9153</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {1658, 1172}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>BB51049D-E7BD-430E-AD9F-BD45893FF306</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 14}, {1658, 1172}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>CED6E982-AF30-47F8-A8B8-4E6423B7DC01</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {1694, 1036}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>DD1DE1F5-7F8D-4F70-A6E0-E889F81916B8</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {540, 720}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>E58F6B4D-8510-48DF-B43E-D7AA5EC32B55</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {540, 720}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>E7CA0C2F-BE9B-444D-8472-870B2C699768</key>
+	<dict>
+		<key>Visible Rect</key>
+		<string>{{0, 0}, {540, 720}}</string>
+		<key>Zoom Factor</key>
+		<real>1</real>
+	</dict>
+	<key>Expanded Ideaspaces</key>
+	<array/>
+	<key>Expanded Ideaspaces For Section 3AF2D92C-AF60-4F42-BD39-E18182AE9BA4</key>
+	<array/>
+	<key>Expanded Ideaspaces For Section 3C678DD5-75A7-4BFF-B003-FC0BD7F637A4</key>
+	<array/>
+	<key>Expanded Ideaspaces For Section 40838BDA-A49E-4EAD-8761-7E9341247860</key>
+	<array/>
+	<key>Expanded Ideaspaces For Section 5C489F73-829D-44BE-AC49-75FA15BAD986</key>
+	<array/>
+	<key>Expanded Ideaspaces For Section 5FD5083B-5090-45A1-BFC9-A22FBFB93F2C</key>
+	<array/>
+	<key>Expanded Ideaspaces For Section 70ED7BB3-3E3E-404D-9275-B6A8721B296D</key>
+	<array/>
+	<key>Expanded Ideaspaces For Section 755B0B4C-CD06-470E-98BB-80239DC7ACFF</key>
+	<array/>
+	<key>Expanded Ideaspaces For Section 81D8B308-5C58-431B-93CD-DCF918C60B7A</key>
+	<array/>
+	<key>Expanded Ideaspaces For Section 9C17CE0D-1FBD-428D-9CF0-AD391F20C96B</key>
+	<array>
+		<string>5CF0CF5C-291E-409D-832F-2F02E2F94AA8</string>
+		<string>538FF37F-0FC1-4897-8E1B-7B311E3E1DA6</string>
+	</array>
+	<key>Expanded Ideaspaces For Section B86209D3-807B-46DF-9173-7F49D96E9958</key>
+	<array/>
+	<key>Expanded Ideaspaces For Section FDE1B2F0-5299-431C-A1CD-35978534576D</key>
+	<array/>
+	<key>Expanded Ideaspaces For Section FE53E054-7D7A-4797-BAE1-0E4EF9CCB015</key>
+	<array/>
+	<key>Expanded Sections</key>
+	<array>
+		<string>40838BDA-A49E-4EAD-8761-7E9341247860</string>
+	</array>
+	<key>InspectorBar RBSplitView Layout</key>
+	<string>2 27 1051</string>
+	<key>Last Viewed Ideaspaces</key>
+	<array/>
+	<key>Last Viewed Ideaspaces For Section 3AF2D92C-AF60-4F42-BD39-E18182AE9BA4</key>
+	<array/>
+	<key>Last Viewed Ideaspaces For Section 3C678DD5-75A7-4BFF-B003-FC0BD7F637A4</key>
+	<array/>
+	<key>Last Viewed Ideaspaces For Section 40838BDA-A49E-4EAD-8761-7E9341247860</key>
+	<array/>
+	<key>Last Viewed Ideaspaces For Section 5C489F73-829D-44BE-AC49-75FA15BAD986</key>
+	<array/>
+	<key>Last Viewed Ideaspaces For Section 5FD5083B-5090-45A1-BFC9-A22FBFB93F2C</key>
+	<array>
+		<string>05B00E33-9B04-46C2-A85B-69CC8104CD52</string>
+	</array>
+	<key>Last Viewed Ideaspaces For Section 70ED7BB3-3E3E-404D-9275-B6A8721B296D</key>
+	<array/>
+	<key>Last Viewed Ideaspaces For Section 755B0B4C-CD06-470E-98BB-80239DC7ACFF</key>
+	<array/>
+	<key>Last Viewed Ideaspaces For Section 81D8B308-5C58-431B-93CD-DCF918C60B7A</key>
+	<array/>
+	<key>Last Viewed Ideaspaces For Section 9C17CE0D-1FBD-428D-9CF0-AD391F20C96B</key>
+	<array>
+		<string>3951ED2E-8425-4592-A3C7-002E9F739F3C</string>
+	</array>
+	<key>Last Viewed Ideaspaces For Section B86209D3-807B-46DF-9173-7F49D96E9958</key>
+	<array/>
+	<key>Last Viewed Ideaspaces For Section FDE1B2F0-5299-431C-A1CD-35978534576D</key>
+	<array/>
+	<key>Last Viewed Ideaspaces For Section FE53E054-7D7A-4797-BAE1-0E4EF9CCB015</key>
+	<array/>
+	<key>Last Viewed Section</key>
+	<array>
+		<string>5FD5083B-5090-45A1-BFC9-A22FBFB93F2C</string>
+	</array>
+	<key>Library RBSplitView Layout</key>
+	<string>2 1051 -312.595H</string>
+	<key>LibraryPanel.Settings</key>
+	<dict>
+		<key>LibraryPanel.HiddenColumns</key>
+		<array/>
+		<key>LibraryPanel.SelectedFilter</key>
+		<integer>0</integer>
+		<key>LibraryPanel.SortDescending</key>
+		<false/>
+		<key>LibraryPanel.SortKey</key>
+		<string>CCAsset Title</string>
+		<key>LibraryPanel.TableSettings</key>
+		<dict>
+			<key>CCAsset Creation Date</key>
+			<array>
+				<real>85</real>
+				<integer>6</integer>
+			</array>
+			<key>CCAsset Date Added</key>
+			<array>
+				<real>83</real>
+				<integer>7</integer>
+			</array>
+			<key>CCAsset File Size</key>
+			<array>
+				<real>45</real>
+				<integer>4</integer>
+			</array>
+			<key>CCAsset Has Note</key>
+			<array>
+				<real>20</real>
+				<integer>1</integer>
+			</array>
+			<key>CCAsset Instance Count</key>
+			<array>
+				<real>35</real>
+				<integer>3</integer>
+			</array>
+			<key>CCAsset Is File Alias</key>
+			<array>
+				<real>20</real>
+				<integer>0</integer>
+			</array>
+			<key>CCAsset Kind</key>
+			<array>
+				<real>500</real>
+				<integer>8</integer>
+			</array>
+			<key>CCAsset Last Modified Date</key>
+			<array>
+				<real>85</real>
+				<integer>5</integer>
+			</array>
+			<key>CCAsset Title</key>
+			<array>
+				<real>200</real>
+				<integer>2</integer>
+			</array>
+		</dict>
+	</dict>
+	<key>Main RBSplitView Layout</key>
+	<string>3 185.002 1709 280</string>
+	<key>Normal Window Layout</key>
+	<string>{{384, 214}, {2176, 1155}}</string>
+	<key>Organizer RBSplitView Layout</key>
+	<string>2 174.991 679.009</string>
+	<key>Projects RBSplitView Layout</key>
+	<string>2 878.983 170.017</string>
+</dict>
+</plist>
