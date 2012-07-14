@@ -38,6 +38,8 @@ from google.appengine.api import memcache
 from google.appengine.ext.webapp import template
 from google.appengine.ext.webapp.util import run_wsgi_app
 
+from api.handler import APIHandler
+
 
 # CLIENT_SECRETS, name of a file containing the OAuth 2.0 information for this
 # application, including client_id and client_secret, which are found
@@ -99,6 +101,7 @@ def main():
       [
        ('/', MainHandler),
        ('/about', AboutHandler),
+       ('/api', APIHandler),
       ],
       debug=True)
   run_wsgi_app(application)
